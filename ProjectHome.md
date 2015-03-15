@@ -1,0 +1,3 @@
+There are plenty of SPICE subcircuits floating around online that claim to model the behavior of memristors. But every one of them that I’ve seen takes existing SPICE components, and gloms them together to essentially emulate memristor behavior.  As such, the existing subcircuits all suffer from the same deficiency: none of them can be as good or as accurate as a built-in SPICE model.  The goal of this project is to produce a modified version of SPICE that allows for quick and accurate prototyping of memristor circuits.
+
+For more information, check out http://memristor.arlin.com/.
